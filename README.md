@@ -3,6 +3,7 @@
 - **LU:** TUV000534
 - **Materia:** Programación de Videojuegos II
 - **Profesor:** Samuel Bustamante
+- **Link para probar:** https://cocom1n.github.io/MisuMek2/
 
 # Juego: MisuMek
 - **Versión Unity:** 2022.3.7f1
